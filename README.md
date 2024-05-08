@@ -1,2 +1,2 @@
-# rave-portfolio
+# ravi-portfolio
 Project Self
